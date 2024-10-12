@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\switch2it\\2-e_jaar\\dotnetadv\\asp.net-core-tutorial\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\switch2it\\2-e_jaar\\dotnetadv\\asp.net-core-tutorial\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Migrations\\20241012163818_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241012163818_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\switch2it\\2-e_jaar\\dotnetadv\\asp.net-core-tutorial\\mvcmovie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\switch2it\\2-e_jaar\\dotnetadv\\asp.net-core-tutorial\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\switch2it\\2-e_jaar\\dotnetadv\\asp.net-core-tutorial\\mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|solutionrelative:views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\switch2it\\2-e_jaar\\dotnetadv\\asp.net-core-tutorial\\mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\switch2it\\2-e_jaar\\dotnetadv\\asp.net-core-tutorial\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|c:\\users\\sati\\onedrive - pxl\\bureaublad\\switch2it\\2-e_jaar\\dotnetadv\\asp.net-core-tutorial\\mvcmovie\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F66812-6F6D-4590-81FD-6940453BA1CD}|MvcMovie.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241012163818_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Migrations\\20241012163818_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241012163818_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Migrations\\20241012163818_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241012163818_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:38:18.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T16:35:09.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:33:49.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:24:04.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T16:09:29.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T15:47:05.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T15:41:02.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T15:35:38.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\Sati\\OneDrive - PXL\\Bureaublad\\Switch2IT\\2-e_jaar\\DotNetAdv\\ASP.NET-Core-tutorial\\MvcMovie\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:29:38.491Z",
+              "EditorCaption": ""
             }
           ]
         }
